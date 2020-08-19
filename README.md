@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasxdz" alt="ilyasxdz" /> </p>
 
-- 🔭 I’m currently working on [Random Meal Generator App for Android / IOS](https://github.com/ilyasxdz/Random-Meal-Generator)
-
 - 🌱 I’m currently learning **React native**
 
 - 📝 I regulary write articles on [https://www.facebook.com/groups/dzdevs/1293299720765812/](https://www.facebook.com/groups/dzdevs/1293299720765812/)
