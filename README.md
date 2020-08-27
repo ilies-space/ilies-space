@@ -14,7 +14,7 @@
 - 📫 reach me out on :  **ilyasdzair1@gmail.com**
 
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasxdz&layout=compact)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 <p align="left">
@@ -29,13 +29,22 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   
-  </p><p align="center">
+  </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ilyasxdz" alt="ilies ouldmenouer" />
+</p>
+
+  <p align="center">
 
 <a href="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" target="blank">
-  <img align="center" src="https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png" alt="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" height="30" width="30" /></a>
+  <img align="center" src="https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png" alt="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" height="30" width="30" />
+</a>
 <a href="https://www.facebook.com/ilies.ouldmenouer" target="blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png" alt="ilies ouldmenouer" height="30" width="30" /></a>
+  <img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png" alt="ilies ouldmenouer" height="30" width="30" />
+</a>
 <a href="https://instagram.com/ilies_ouldmenouer" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="ilies_ouldmenouer" height="30" width="30" /></a>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="ilies_ouldmenouer" height="30" width="30" />
+</a>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasxdz" alt="ilies ouldmenouer" /> </p>
