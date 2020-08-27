@@ -33,8 +33,11 @@
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasxdz&layout=compact)
 
 
-<a href="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" height="30" width="30" /></a>
-<a href="https://www.facebook.com/ilies.ouldmenouer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ilies ouldmenouer" height="30" width="30" /></a>
-<a href="https://instagram.com/ilies_ouldmenouer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ilies_ouldmenouer" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" height="30" width="30" /></a>
+<a href="https://www.facebook.com/ilies.ouldmenouer" target="blank">
+  <img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202110facebooklogosocialsocialmedia-115707_115594.png" alt="ilies ouldmenouer" height="30" width="30" /></a>
+<a href="https://instagram.com/ilies_ouldmenouer" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ilies_ouldmenouer" height="30" width="30" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasxdz" alt="ilies ouldmenouer" /> </p>
