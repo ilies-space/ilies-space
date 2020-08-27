@@ -16,7 +16,7 @@
 
 - 📫 reach me out on :  **ilyasdzair1@gmail.com**
 
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houarizegai&layout=compact)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasxdz&layout=compact)
 
 
 <a href="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" height="30" width="30" /></a>
