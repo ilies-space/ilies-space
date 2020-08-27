@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm ilies Ould Menouer</h1>
 <h3 align="center">"Opportunities don't happen. You create them."</h3>
 
+
+
+
+
+- 🌱 I’m currently learning **React native**
+
+- 📝 I regulary write articles on [https://www.facebook.com/groups/dzdevs/1293299720765812/](https://www.facebook.com/groups/dzdevs/1293299720765812/)
+
+- 💬 Ask me about **Android development**
+
+- 📫 reach me out on :  **ilyasdzair1@gmail.com**
+
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasxdz&layout=compact)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
@@ -17,19 +30,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   
   </p><p align="center">
-
-
-
-- 🌱 I’m currently learning **React native**
-
-- 📝 I regulary write articles on [https://www.facebook.com/groups/dzdevs/1293299720765812/](https://www.facebook.com/groups/dzdevs/1293299720765812/)
-
-- 💬 Ask me about **Android development**
-
-- 📫 reach me out on :  **ilyasdzair1@gmail.com**
-
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasxdz&layout=compact)
-
 
 <a href="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" target="blank">
   <img align="center" src="https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png" alt="https://www.linkedin.com/in/ilies-ould-menouer-6a02111a2/" height="30" width="30" /></a>
