@@ -13,7 +13,7 @@
 
 - 📫 reach me out on :  **ilyasdzair1@gmail.com**
 
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasxdz&layout=compact)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-space&layout=compact)
 
 
 
@@ -32,7 +32,7 @@
   </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ilyasxdz" alt="ilies ouldmenouer" />
+  <img src="https://komarev.com/ghpvc/?username=ilies-space" alt="ilies ouldmenouer" />
 </p>
 
   <p align="center">
