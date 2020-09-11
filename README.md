@@ -9,8 +9,6 @@
 
 - 📝 I regulary write articles on [https://www.facebook.com/groups/dzdevs/1293299720765812/](https://www.facebook.com/groups/dzdevs/1293299720765812/)
 
-- 💬 Ask me about **Android development**
-
 - 📫 reach me out on :  **ilyasdzair1@gmail.com**
 
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilies-space&layout=compact)
