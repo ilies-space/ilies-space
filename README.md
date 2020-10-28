@@ -3,11 +3,9 @@
 
 
 
-
-
-- 🌱 I’m currently learning **React native**
-
-- 📝 I regulary write articles on [https://www.facebook.com/groups/dzdevs/1293299720765812/](https://www.facebook.com/groups/dzdevs/1293299720765812/)
+Développeur de logiciels passionné désireux d'apprendre toutes les nouveautés dans la technologie en particulier le développement mobile.
+J'ai passé du bon temps à développer et à écrire du code en JavaScript avec React-Native Library .
+Travaille actuellement en tant qu'ingénieur logiciel mobile chez 'Groupe industriel Sidi Bendehiba' .
 
 - 📫 reach me out on :  **ilyasdzair1@gmail.com**
 
