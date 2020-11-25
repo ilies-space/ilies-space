@@ -3,9 +3,9 @@
 
 
 
-Développeur de logiciels passionné désireux d'apprendre toutes les nouveautés dans la technologie en particulier le développement mobile.
-J'ai passé du bon temps à développer et à écrire du code en JavaScript avec React-Native Library .
-Travaille actuellement en tant qu'ingénieur logiciel mobile chez 'Groupe industriel Sidi Bendehiba' .
+Passionate software developer eager to learn all the news in technology especially mobile development.
+I had a great time developing and writing code in JavaScript with React-Native Library.
+Currently working as a mobile software engineer at 'Sidi Bendehiba Industrial Group'.
 
 - 📫 reach me out on :  **ilyasdzair1@gmail.com**
 
